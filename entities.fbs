@@ -1,0 +1,6 @@
+table TestEntity {
+    id: ulong;
+    simpleInt: int;
+    simpleString: string;
+    createdAt: ulong;
+}
